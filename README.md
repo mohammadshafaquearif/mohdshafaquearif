@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shafaque Arif</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and DevOps Engineer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdshafaquearif&label=Profile%20views&color=0e75b6&style=flat" alt="mohdshafaquearif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdshafaquearif" alt="mohdshafaquearif" /></a> </p>
 
-- 🌱 I’m currently learning **MERN and DevOps**
+- 🌱 Currently building applications that meets the expectation at production level**
 
-- 💬 Ask me about **React,HTML,CSS,JS,NodeJS,EXPRESS,MONGODB,Software Development, Git,Docker,Jenkins,Kubernetes,Selenium,Ansible**
+- 💬 Ask me about **React,HTML,CSS,JS,ReactJS,NextJS,NodeJS,EXPRESS,MONGODB,Software Development, Git,GitHub,Docker,Jenkins,Maven,Tomcat,Terraform,Kubernetes,Prometheus,Graffana,Selenium,Ansible**
 
 - 📫 How to reach me **mohammadshafaque.26@gmail.com**
 
