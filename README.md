@@ -1,30 +1,99 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shafaque Arif</h1>
-<h3 align="center">A passionate Full Stack Developer and DevOps Engineer from India</h3>
 
+<h3 align="center">
+Software Developer | Full Stack Developer | DevOps & Cloud Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdshafaquearif&label=Profile%20views&color=0e75b6&style=flat" alt="mohdshafaquearif" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdshafaquearif" alt="mohdshafaquearif" /></a> </p>
+## 🚀 About Me
 
-- 🌱 Currently building applications that meets the expectation at production level**
+- 🌱 Currently learning and building with DevOps, Cloud, and modern infrastructure tools
+- 💻 Passionate about Full Stack Development, Linux, Automation, and Backend Systems
+- 🛠️ Exploring Docker, Kubernetes, Terraform, Jenkins, and Cloud technologies
+- 📚 Writing technical articles on Linux, DevOps, and Cloud Computing
+- ⚡ Love teaching, building projects, and solving real-world problems
 
-- 💬 Ask me about **React,HTML,CSS,JS,ReactJS,NextJS,NodeJS,EXPRESS,MONGODB,Software Development, Git,GitHub,Docker,Jenkins,Maven,Tomcat,Terraform,Kubernetes,Prometheus,Graffana,Selenium,Ansible**
+---
 
-- 📫 How to reach me **mohammadshafaque.26@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shafaquearif26?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shafaquearif26?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_shafaque_26?igsh=bme0ow5ty2h4zxr5&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_shafaque_26?igsh=bme0ow5ty2h4zxr5&utm_source=qr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mohammadshafaqu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mohammadshafaqu1" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shafaquearif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shafaquearif/" height="30" width="40" /></a>
-</p>
+### 💻 Languages
+- JavaScript
+- TypeScript
+- Java
+- SQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### 🌐 Frontend
+- React.js
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdshafaquearif&show_icons=true&locale=en&layout=compact" alt="mohdshafaquearif" /></p>
+### ⚙️ Backend
+- Node.js
+- Express.js
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdshafaquearif&show_icons=true&locale=en" alt="mohdshafaquearif" /></p>
+### 🗄️ Databases
+- MongoDB
+- MySQL
+- PostgreSQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdshafaquearif&" alt="mohdshafaquearif" /></p>
+### 🚀 DevOps & Cloud
+- Linux
+- Git & GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- AWS
+- Ansible
+
+---
+
+## 📌 Current Focus
+
+- DevOps Engineering
+- Cloud Infrastructure
+- CI/CD Pipelines
+- Kubernetes
+- System Design
+- Production-Level Applications
+
+---
+
+## 🌍 Connect With Me
+
+- 🌐 Portfolio: https://shafaqueportfolio.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-shafaque-arif/
+- 📝 Hashnode: https://hashnode.com/@mohammadshafaquearif
+- 🐦 X/Twitter: https://x.com/shafaquedev
+- 📸 Instagram: https://instagram.com/_shafaque_26
+- 💻 GitHub: https://github.com/mohammadshafaquearif
+
+---
+
+## 📖 Latest Interests
+
+- Linux & DevOps
+- Cloud Computing
+- Backend Engineering
+- Infrastructure Automation
+- Modern Web Development
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building projects, teaching technology, writing technical content, and exploring how modern infrastructure works behind the scenes.
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mohammadshafaquearif&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadshafaquearif&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshafaquearif&layout=compact&theme=tokyonight)
